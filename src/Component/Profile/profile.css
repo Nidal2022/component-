@@ -1,0 +1,33 @@
+
+  
+
+.imagepublic{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  .FullName{
+    color:hsl(0, 17%, 37%);
+    
+    font-size: 18px;
+    font-family: roboto;
+    margin: auto ;
+    
+    
+  }
+  
+  #root{
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: beige;
+    
+  }
